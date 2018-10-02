@@ -1,13 +1,11 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Julia
+description:    "Blog"
+url:            "https://juliaschen.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Julia
 
 # Build settings
 markdown:       kramdown
